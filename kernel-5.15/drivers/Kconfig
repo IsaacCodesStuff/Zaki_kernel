@@ -240,5 +240,7 @@ source "drivers/most/Kconfig"
 source "drivers/snvm/Kconfig"
 
 source "drivers/samsung/Kconfig"
+
 source "drivers/kernelsu/Kconfig"
+
 endmenu
